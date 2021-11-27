@@ -35,15 +35,16 @@ body{
 .logo{
     position: absolute;
     width: 100px;
-    top: 4vh;
+    top: 3vh;
     left: 5vw;
 }
 .main-page{
     width: 70vw;
     margin-left: 20vw;
     margin-right: 10vw;
-    margin-top: 5vh;
+    margin-top: 12vh;
     font-size: 20px;
+
 }
 .main-page h1{
     font-family: 'Bebas Neue', cursive;
